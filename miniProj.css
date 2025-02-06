@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color:black;
+    color: white;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 2rem;
+    box-shadow: 0 0 20px white;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.score-container {
+    text-align: center;
+}
+
+.C-one {
+    background-color: rgb(226, 58, 75);
+}
+
+.C-two {
+    background-color: rgb(71, 119, 240);
+}
+
+.C-three {
+    background-color: rgb(132, 82, 183);
+}
+
+.C-four {
+    background-color: rgb(149, 245, 54);
+}
+
+.flash {
+    background-color: white;
+    box-shadow: 0 0 20px rgb(43, 226, 195);
+}
